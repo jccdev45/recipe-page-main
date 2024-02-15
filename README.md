@@ -24,8 +24,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Frontend Mentor solution](https://www.frontendmentor.io/solutions/responsive-page-tailwindcss-grid-flexbox-Xy0zDfOqUk)
+- [Live site](https://recipe-page-main-nine.vercel.app/)
 
 ## My process
 
